@@ -1,0 +1,9 @@
+Hi, nice to meet you. My name is Victoria Pascarella, I'm 24 years old and I did a Bachelor of Business Administration at HEG Geneva while working at Deloitte as a Project Management Officer. In this role, I had a first exposure to working with data, reporting, analysis, and structured problem solving in a business environment. Currently, I have a student job at Apple as a Technical Specialist at the Genius Bar.
+
+My first real experience with data analytics came during my Bachelor degree starting with following an Applied Machine Learning course and then with my Bachelor's thesis, where I worked with data collected from Reddit subreddits r/wallstreetbets. This project gave me the opportunity to work with real-word data and introduces me to machine learning algorithms. I had to work through several stages of a typical text-analysis pipeline, including data cleaning and preprocessing, removing irrelevant elements from the raw text, tokenisation, and transforming textual information into a format that could be analysed computationally.
+
+I also explored NLP algorithms and techniques to analyse the content of Reddit discussions, particularly to identify patterns and relationships within the data. This gave me a first understanding of how algorithms can be used to transform something as unstructured as human language into quantitative information that can then be analysed and interpreted.
+
+However, I would still consider myself at the beginning of my journey in programming and data science. I now want to develop a much stronger understanding of machine learning and the mathematical and computational concepts behind it.
+
+That is also why I am now enrolled in a MSc of Information Systems at the University of Lausanne within the HEC faculty. Which I see as a bridge between my previous background in business and the more technical direction I would like to pursue professionally.
